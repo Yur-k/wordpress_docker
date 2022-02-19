@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This progect can help setup Wordpress, MySQL and PHP on your localhost
+This project deploys WordPress on the virtual machine (Ubuntu) wrapped in Docker.
 
 
 ### Built With
