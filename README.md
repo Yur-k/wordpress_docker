@@ -79,7 +79,7 @@ You need to install Docker and Docker-compose. You can use script `docker-instal
 
 Open browser and enter
 ```
-localhost
+https://localhost/
 ```
 Enjoy
 
@@ -91,7 +91,7 @@ Enjoy
 ## Contact
 
 Yurii - yura.ryzhuk@gmail.com  
-LinkedIn: [Yurii Ryzhuk](https://www.linkedin.com/in/yurii-ryzhuk-b13580206/)
+LinkedIn: [Yurii Ryzhuk](https://www.linkedin.com/in/yurii-ryzhuk-b13580206/)  
 Project Link: [https://github.com/Yur-k/wordpress_docker](https://github.com/Yur-k/wordpress_docker)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
