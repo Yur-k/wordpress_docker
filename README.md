@@ -79,7 +79,7 @@ You need to install Docker and Docker-compose. You can use script `docker-instal
 
 Open browser and enter
 ```
-https://localhost/
+http://localhost/
 ```
 Enjoy
 
